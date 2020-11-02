@@ -7,7 +7,7 @@ Here we are providing bulksms service currently only Bangladesh
 
 ```python
 
- require_once ("bulksms.ini.php");
+    require_once ("bulksms.ini.php");
 
     $mysms = new BulkSMS24();
     $api_key = "xx";
